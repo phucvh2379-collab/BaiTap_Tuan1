@@ -1,4 +1,5 @@
 # Tuần 1 - Bài tập cá nhân 
+
 ## Câu 1: Mong muốn và định hướng của bạn là gì sau khi học xong môn học?
 Sau khi học xong môn học này, mình mong muốn có thể nắm vững các kiến thức cơ bản và nâng cao về lập trình di động, bao gồm cách xây dựng giao diện người dùng (UI), quản lý trạng thái ứng dụng, và tích hợp các API. Mục tiêu của mình là có thể tự xây dựng một ứng dụng di động hoàn chỉnh và triển khai thực tế trên các nền tảng như Android hoặc iOS. Trong tương lai, mình muốn phát triển theo hướng lập trình di động chuyên nghiệp, tham gia vào các dự án thực tế hoặc làm việc tại các công ty công nghệ.
 
