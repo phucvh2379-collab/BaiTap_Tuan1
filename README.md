@@ -1,4 +1,4 @@
-# Tuần 1 - Bài tập môn học
+# Tuần 1 - Bài tập cá nhân 
 
 ## Câu 1: Mong muốn và định hướng của bạn là gì sau khi học xong môn học?
 
